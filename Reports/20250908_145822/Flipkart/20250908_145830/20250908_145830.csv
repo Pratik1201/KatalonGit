@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Flipkart,Chrome 139.0.7258.155,,,08-09-2025 14:58:41,08-09-2025 14:59:17,35.997s,FAILED
+,,,,,,,
+Test Cases/TestDemo,Chrome 139.0.7258.155,,,08-09-2025 14:58:42,08-09-2025 14:59:16,34.031s,FAILED
+"openBrowser("""")",Chrome 139.0.7258.155,,,08-09-2025 14:58:43,08-09-2025 14:58:48,5.389s,PASSED
+"navigateToUrl(""https://www.flipkart.com/"")",Chrome 139.0.7258.155,,,08-09-2025 14:58:48,08-09-2025 14:58:53,4.061s,PASSED
+"setText(findTestObject(""Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input_Login_q""), ""best gaming laptop"")",Chrome 139.0.7258.155,,,08-09-2025 14:58:53,08-09-2025 14:59:04,11.715s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/div_best gaming laptop_YGcVZO _2VHNef""))",Chrome 139.0.7258.155,,,08-09-2025 14:59:04,08-09-2025 14:59:16,12.057s,FAILED
