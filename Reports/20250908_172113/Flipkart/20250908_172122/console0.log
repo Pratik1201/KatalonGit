@@ -1,0 +1,31 @@
+2025-09-08 17:21:36.366 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/Flipkart
+2025-09-08 17:21:36.602 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Pratik Sonawane
+2025-09-08 17:21:36.632 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = KatalonGit
+2025-09-08 17:21:36.636 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = Sumit - Pratik
+2025-09-08 17:21:36.638 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-09-08 17:21:36.650 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.56.1
+2025-09-08 17:21:36.655 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.3.1.0
+2025-09-08 17:21:38.216 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-09-08 17:21:38.216 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/TestDemo
+2025-09-08 17:21:39.004 DEBUG testcase.TestDemo                        - 1: openBrowser("")
+2025-09-08 17:21:39.703 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-09-08 17:21:39.830 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+Sep 08, 2025 5:21:44 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 139, returning the closest version; found: 138; Please update to a Selenium version that supports CDP version 139
+2025-09-08 17:21:46.607 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 371e6dc33ee1fc9c47ff580161e1ad42
+2025-09-08 17:21:46.613 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 139.0.7258.155
+2025-09-08 17:21:46.615 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2025-09-08 17:21:46.625 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-09-08 17:21:46.717 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-09-08 17:21:46.809 DEBUG testcase.TestDemo                        - 2: navigateToUrl("https://www.flipkart.com/")
+2025-09-08 17:21:47.977 DEBUG testcase.TestDemo                        - 3: setText(findTestObject("Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input_Login_q"), "best gaming laptop")
+2025-09-08 17:22:02.522 WARN  c.k.k.c.w.k.builtin.SetTextKeyword       - Waiting for element timed out
+2025-09-08 17:22:03.225 DEBUG testcase.TestDemo                        - 4: click(findTestObject("Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/div_best gaming laptop_YGcVZO _2VHNef"))
+2025-09-08 17:22:13.818 WARN  c.k.k.c.w.keyword.builtin.ClickKeyword   - Waiting for element timed out
+2025-09-08 17:22:19.143 DEBUG testcase.TestDemo                        - 5: click(findTestObject("Object Repository/Page_Best Gaming Laptop Under 40k- Buy Prod_27c071/div_Add to Compare_KzDlHZ"))
+2025-09-08 17:22:29.568 WARN  c.k.k.c.w.keyword.builtin.ClickKeyword   - Waiting for element timed out
+2025-09-08 17:22:30.027 DEBUG testcase.TestDemo                        - 6: closeBrowser()
+2025-09-08 17:22:30.972 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/TestDemo
+2025-09-08 17:22:31.046 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2025-09-08 17:22:31.046 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/Flipkart
+2025-09-08 17:22:31.046 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================

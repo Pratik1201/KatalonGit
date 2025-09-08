@@ -15,7 +15,7 @@
       <guid>484dd5c4-75d6-4cbd-adf5-8b693be63b42</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestDemo</testCaseId>
+      <testCaseId>Test Cases/Flipkart</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
