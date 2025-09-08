@@ -17,3 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.flipkart.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input_Login_q'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input_Login_q'), 'best gaming laptop')
+
+WebUI.click(findTestObject('Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/div_best gaming laptop_YGcVZO _2VHNef'))
+
+WebUI.click(findTestObject('Object Repository/Page_Best Gaming Laptop Under 40k- Buy Prod_27c071/div_Add to Compare_KzDlHZ'))
+
+WebUI.closeBrowser()
+
