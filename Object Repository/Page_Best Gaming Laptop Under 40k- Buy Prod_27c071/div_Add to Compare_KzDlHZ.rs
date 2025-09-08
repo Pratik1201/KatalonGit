@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add to Compare_KzDlHZ</name>
+   <tag></tag>
+   <elementGuidId>b993228b-ccdd-4d9a-8d70-660a51b50e05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.KzDlHZ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div/div[2]/div[2]/div/div/div/a/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;MSI Thin 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF... Add to Compare MSI Thin 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF... 4.3 1,477 Ratings &amp; 114 Reviews • Intel Core i5 Processor (12th Gen) • 16 GB DDR4 RAM • Windows 11 Operating System • 512 GB SSD • 39.62 cm (15.6 Inch) Display • 2 Year Onsite Warranty ₹70,990 Bank Offer&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b349b988-0d10-4ff2-9c86-efb811ee4fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>KzDlHZ</value>
+      <webElementGuid>3afd8910-b77d-4275-84ea-6ff903d83315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MSI Thin 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...</value>
+      <webElementGuid>bbe741e1-d3de-4914-983d-039a9be6663f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;nt6sNV JxFEK3 _48O0EI&quot;]/div[@class=&quot;DOjaWF YJG4Cf&quot;]/div[@class=&quot;DOjaWF gdgoEp&quot;]/div[@class=&quot;cPHDOP col-12-12&quot;]/div[@class=&quot;_75nlfW&quot;]/div[1]/div[@class=&quot;tUxRFH&quot;]/a[@class=&quot;CGtC98&quot;]/div[@class=&quot;yKfJKb row&quot;]/div[@class=&quot;col col-7-12&quot;]/div[@class=&quot;KzDlHZ&quot;]</value>
+      <webElementGuid>368be374-af07-48cf-a9f4-1789c90f5d59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div/div[2]/div[2]/div/div/div/a/div[2]/div/div[2]</value>
+      <webElementGuid>b7ea59ad-c7f5-43f4-b01d-165e1a35d3b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Compare'])[1]/following::div[6]</value>
+      <webElementGuid>f0b15c5c-b233-42bd-a4ec-4e7f5f10a1e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newest First'])[1]/following::div[17]</value>
+      <webElementGuid>f0e0d685-7ef3-4813-8069-30f8d94f5445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&amp;'])[1]/preceding::div[2]</value>
+      <webElementGuid>635dde50-e0ff-4a51-bc10-63aaf04c55e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intel Core i5 Processor (12th Gen)'])[1]/preceding::div[3]</value>
+      <webElementGuid>a88e253f-1092-4194-91d1-d14b32ff1158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MSI Thin 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...']/parent::*</value>
+      <webElementGuid>ba83a53b-84c8-4dbb-bff7-3432694c4a07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]/div/div[2]</value>
+      <webElementGuid>fc3d9edf-beef-4fb9-88b5-212daeae8ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MSI Thin 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...' or . = 'MSI Thin 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...')]</value>
+      <webElementGuid>24283e3a-7ec6-4d0b-bcad-5ec0770578d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
