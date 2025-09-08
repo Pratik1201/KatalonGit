@@ -21,8 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.flipkart.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input_Login_q'))
-
 WebUI.setText(findTestObject('Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input_Login_q'), 'best gaming laptop')
 
 WebUI.click(findTestObject('Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/div_best gaming laptop_YGcVZO _2VHNef'))
